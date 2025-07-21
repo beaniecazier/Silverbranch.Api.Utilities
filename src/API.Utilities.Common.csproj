@@ -31,9 +31,34 @@
         <FileVersion>$(VersionPrefix).0</FileVersion>
 
         <PackageReleaseNotes>
-            Version 1.0.0-alpha
-            ----------------------------------------------------------------
-            notes here
+            # SILVERBRANCH CODEWORKS API BLL Utilities
+
+            ## Version [1.0.0-alpha] - 2025-07-21
+
+            **Type:** Alpha
+            **Stability:** ⚠️ Experimental – Not recommended for production use.
+
+            ---
+
+            ### 🚧 Overview
+
+            This alpha release introduces early implementations of planned features for version 1.0.0.
+
+            > ⚠️ APIs and behavior may change without notice in future builds.
+
+            > 💡 Use this release to explore upcoming features and provide feedback.
+
+            ---
+
+            ### ➕ New Features ➕
+
+            -
+
+            ---
+
+            ### 🔗 Related Links 🔗
+
+            - [Full Changelog](CHANGELOG.md#Version-100-alpha)
         </PackageReleaseNotes>
     </PropertyGroup>
 
@@ -67,7 +92,7 @@
     <ItemGroup>
       <PackageReference Include="Asp.Versioning.Mvc" Version="8.1.0" />
       <PackageReference Include="Asp.Versioning.Mvc.ApiExplorer" Version="8.1.0" />
-      <PackageReference Include="Gay.Silverbranch.pkg.Utilities.Security" Version="1.0.0-alpha-20250701-224037" />
+      <PackageReference Include="Gay.Silverbranch.pkg.Utilities.Security" Version="1.0.0-alpha-20250721-041945" />
       <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" Version="8.0.16" />
       <PackageReference Include="Microsoft.OpenApi" Version="1.6.23" />
       <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="8.1.1" />
