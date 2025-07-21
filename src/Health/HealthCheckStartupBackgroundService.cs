@@ -1,7 +1,7 @@
-﻿using Gay.Silverbranch.Api.Utilities.Endpoints.V1.Health;
+﻿using Gay.Silverbranch.Api.Utilities.Common.Endpoints.V1.Health;
 using Gay.Silverbranch.Utilities.General.BackgroundServices;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Health;
+namespace Gay.Silverbranch.Api.Utilities.Common.Health;
 
 #pragma warning disable CS1591
 public class HealthCheckStartupBackgroundService : StartupBackgroundService

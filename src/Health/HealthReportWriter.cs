@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Serilog;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Health;
+namespace Gay.Silverbranch.Api.Utilities.Common.Health;
 
 #pragma warning disable CS1591
 

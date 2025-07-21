@@ -1,4 +1,4 @@
-﻿namespace Gay.Silverbranch.API.Utilities.Common.Interfaces;
+﻿namespace Gay.Silverbranch.Api.Utilities.Common.Interfaces;
 
 public interface IPagedOptions
 {

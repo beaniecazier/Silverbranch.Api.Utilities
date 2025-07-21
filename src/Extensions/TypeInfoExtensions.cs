@@ -1,7 +1,7 @@
 using System.Reflection;
-using Gay.Silverbranch.API.Utilities.Common.Endpoints.Interfaces;
+using Gay.Silverbranch.Api.Utilities.Common.Endpoints.Interfaces;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Extensions;
+namespace Gay.Silverbranch.Api.Utilities.Common.Extensions;
 
 public static class TypeInfoExtensions
 {

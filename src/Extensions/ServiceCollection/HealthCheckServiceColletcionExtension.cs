@@ -1,8 +1,8 @@
-﻿using Gay.Silverbranch.Api.Utilities.Endpoints.V1.Health;
+﻿using Gay.Silverbranch.Api.Utilities.Common.Endpoints.V1.Health;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Extensions.ServiceCollection;
+namespace Gay.Silverbranch.Api.Utilities.Common.Extensions.ServiceCollection;
 
 #pragma warning disable CS1591
 

@@ -1,4 +1,4 @@
-namespace Gay.Silverbranch.Api.Utilities.CommandLine.Interface;
+namespace Gay.Silverbranch.Api.Utilities.Common.CommandLine.Interface;
 
 public interface ISwaggerInfoCmdOptions
 {

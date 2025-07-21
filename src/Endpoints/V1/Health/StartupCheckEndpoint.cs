@@ -1,8 +1,7 @@
-﻿using Gay.Silverbranch.Api.Utilities.CommandLine;
-using Gay.Silverbranch.Api.Utilities.CommandLine.Interface;
-using Gay.Silverbranch.API.Utilities.Common.Endpoints.Interfaces;
-using Gay.Silverbranch.API.Utilities.Common.Health;
-using Gay.Silverbranch.API.Utilities.Common.Versioning;
+﻿using Gay.Silverbranch.Api.Utilities.Common.CommandLine.Interface;
+using Gay.Silverbranch.Api.Utilities.Common.Endpoints.Interfaces;
+using Gay.Silverbranch.Api.Utilities.Common.Health;
+using Gay.Silverbranch.Api.Utilities.Common.Versioning;
 using Gay.Silverbranch.Utilities.Security.Constants;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
@@ -12,7 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
 
-namespace Gay.Silverbranch.Api.Utilities.Endpoints.V1.Health;
+namespace Gay.Silverbranch.Api.Utilities.Common.Endpoints.V1.Health;
 
 /// <summary>
 /// Startup Check Meta Endpoint

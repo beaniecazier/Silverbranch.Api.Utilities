@@ -1,7 +1,7 @@
 using CommandLine;
 using Gay.Silverbranch.Utilities.General.CommandLine;
 
-namespace Gay.Silverbranch.API.Utilities.Common.CommandLine;
+namespace Gay.Silverbranch.Api.Utilities.Common.CommandLine;
 
 public class RoutingCmdOptions : BaseCmdOptions
 {

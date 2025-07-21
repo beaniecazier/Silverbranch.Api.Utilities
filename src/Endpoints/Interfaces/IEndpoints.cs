@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Endpoints.Interfaces;
+namespace Gay.Silverbranch.Api.Utilities.Common.Endpoints.Interfaces;
 
 public interface IEndpoints
 {

@@ -1,4 +1,4 @@
-namespace Gay.Silverbranch.API.Utilities.Common.Endpoints;
+namespace Gay.Silverbranch.Api.Utilities.Common.Endpoints;
 
 public static class StaticRoutingDefinitions
 {

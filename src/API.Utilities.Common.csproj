@@ -13,7 +13,7 @@
         <Authors>Tiabeanie Cazier</Authors>
         <Product>API Full Stack Common Utilities</Product>
         <Title>$(Company) $(Product)</Title>
-        <AssemblyName>API.Utilities.Common</AssemblyName>
+        <AssemblyName>Api.Utilities.Common</AssemblyName>
         <RootNamespace>Gay.Silverbranch.$(AssemblyName)</RootNamespace>
         <PackageId>Gay.Silverbranch.pkg.$(AssemblyName)</PackageId>
         <VersionPrefix>1.0.0</VersionPrefix>

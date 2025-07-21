@@ -1,7 +1,7 @@
 ﻿using Asp.Versioning;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Extensions.ServiceCollection;
+namespace Gay.Silverbranch.Api.Utilities.Common.Extensions.ServiceCollection;
 
 #pragma warning disable CS1591
 

@@ -1,6 +1,4 @@
-﻿using Gay.Silverbranch.Api.Utilities.Endpoints;
-
-namespace Gay.Silverbranch.API.Utilities.Common.Endpoints.V1;
+﻿namespace Gay.Silverbranch.Api.Utilities.Common.Endpoints.V1;
 
 public abstract class RestApiEndpointRouting
 {

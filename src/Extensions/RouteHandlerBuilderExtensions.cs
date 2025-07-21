@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Extensions;
+namespace Gay.Silverbranch.Api.Utilities.Common.Extensions;
 
 public static class RouteHandlerBuilderExtensions
 {

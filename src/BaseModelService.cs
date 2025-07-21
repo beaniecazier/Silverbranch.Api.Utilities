@@ -1,6 +1,6 @@
-﻿using Gay.Silverbranch.API.Utilities.Common.Interfaces;
+﻿using Gay.Silverbranch.Api.Utilities.Common.Interfaces;
 
-namespace Gay.Silverbranch.API.Utilities.Common;
+namespace Gay.Silverbranch.Api.Utilities.Common;
 
 public abstract class BaseModelService : IBaseModelService
 {

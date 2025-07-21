@@ -1,10 +1,10 @@
-﻿using Gay.Silverbranch.API.Utilities.Common.Endpoints.Interfaces;
-using Gay.Silverbranch.API.Utilities.Common.Extensions;
+﻿using Gay.Silverbranch.Api.Utilities.Common.Endpoints.Interfaces;
+using Gay.Silverbranch.Api.Utilities.Common.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Endpoints.Extensions;
+namespace Gay.Silverbranch.Api.Utilities.Common.Endpoints.Extensions;
 
 public static class EndpointExtensions
 {

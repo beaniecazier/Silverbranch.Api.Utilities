@@ -3,7 +3,7 @@ using Asp.Versioning.Builder;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Routing;
 
-namespace Gay.Silverbranch.API.Utilities.Common.Versioning;
+namespace Gay.Silverbranch.Api.Utilities.Common.Versioning;
 
 public static class ApiVersioning
 {
